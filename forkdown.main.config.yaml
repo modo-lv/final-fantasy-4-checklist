@@ -1,0 +1,71 @@
+name: "Final Fantasy IV Checklist"
+
+externalLinks:
+  defaultUrl: https://finalfantasy.fandom.com/wiki/
+  rewrites:
+    # Enemies
+    - pattern: ^(Abyss Worm|Adamantoise|Ahriman|Alligator|Alraune|Amoeba|Arachne|Armadillo|Armor Construct|Armored Fiend|Balloon|Baron Guardsman|Baron Marine|Basilisk|Beam Cannon|Behemoth|Belphegor|Black (Flan|Knight|Lizard)|Blood (Bat|Eye|Flower)|Bloodbones|Blue Dragon|Bog Toad|Bog Witch|Bomb|Bone Dragon|Cait Sith|Captain|Caterpillar|Cave (Bat|Naga)|Centaur( Knight|ion)|Chimera( Brain)?|Clockwork (Dragon|Soldier)|Cockatrice|Coeurl|Dark (Grenade|Sage)|Deathmask|Desert Sahagin|Devil's Castanet|Dinozombie|Domovoi|Eyewing Moth|Elder Treant|Electrofish|Ettin Snake|Eukaryote|Evil (Doll|Dreamer)|Fangshell|Fell (Knight|Turtle)|Flame( Knight|hound)|Flan Princess|Fledgling Rukh|Floating Eye|Flood Worm|Frostbeast|Gargoyle|Gatlinghog|Ghost Knight|Ghoul|Gigantoad|Gigas Gator|Gloomwing|Goblin( Captain)?|Gold Dragon|Gorgon|Gray Bomb|Green Dragon|Gremlin|Hell(diver|flapper)|Hydra|Hornworm|Hundlegs|Ice Lizard|Imp|Ironback|Yellow (Dragon|Jelly)|Killer Fish|Lamia( Matriarch?)|Larva|Leshy|Lesser Marilith|Li'l Murderer|Lilith|Lunar Virus|Mad Ogre|Magma Tortoise|Malboro|Marionette(er)?|Medusa|Mindflayer|Mystery Egg|Mythril Golem|Moonmaiden|Mors|Mortblossom|Naga(raja)?|Needlehog|Ogre|Prokaryote|Purple Bavarois|Red (Dragon|Mousse)|Revenant|Rukh|Sahagin|Sand Worm|Searcher|Security Eye|Silver Dragon|Skeleton|Skuldier|Soldieress|Sorcere(r|ss)|Soul|Spirit|Splasher|Steel Golem|Stone Golem|Storm Anima|Succubus|Summoner|Sword Rat|Thunder Dragon|Tiny Mage|Toadgre|Trap Door|Treant|Tunneler|Vampire( Bat|ss)|White Mousse|Zemus's (Breath| Malice)|Zombie|Zu)$
+      rewrite: $0 (Final_Fantasy_IV_3D)
+    # Bosses
+    - pattern: ^(Antlion|Asura|Attack Node|Bahamut|Baigan|Barbariccia|Barnabas|Barnabas-Z|Baron Soldier|Brina|Cagnazzo|Calca|Calcabrina|Cindy|CPU|Dark Bahamut|Dark Dragon|Dark Elf|Defense Node|Demon Wall|Doctor|Dr. Lugae|General|Geryon|Golbez|King of Eblan|Leviathan|Lunasaur|Mindy|Mist Dragon|Mom Bomb|Mopingway|Octomammoth|Odin|Ogopogo|Plague Horror|Proto-Babil|Queen of Eblan|Rubicante|Sandy|Scarmiglione|Skulnant|White Dragon|Zemus)$
+      rewrite: $0 (Final_Fantasy_IV_3D)
+      
+    # Weapons
+    - pattern: ^(Shadowblade)$
+      rewrite: $0_(weapon)#Final_Fantasy_IV
+    - pattern: ^((Ice |Flame )?Rod)$
+      rewrite: $0#Final_Fantasy_IV
+    
+    # Armor
+    - pattern: ^(Feathered Cap|Hades (Helm|Armor))$
+      rewrite: $0#Final_Fantasy_IV
+    - pattern: ^(Hades Gloves)$
+      rewrite: Final_Fantasy_IV_armor#$0
+      
+    # Items
+    - [ "Auto Potion", "Auto-Potion" ]
+    - pattern: ^(Auto-Potion|Bacchus's Wine|Bomb Fragment|(Dry )?Ether|Eye Drops|Gnomish Bread|Gold Needle|Hermes Sandals|Maiden's Kiss|Phoenix Down|Tent|X-Potion|Zeus's Wrath)$
+      rewrite: $0#Final_Fantasy_IV
+    - pattern: ^(Potion)$
+      rewrite: $0_(item)#Final_Fantasy_IV
+    - pattern: ^(Bronze Hourglass)$
+      rewrite: Final_Fantasy_IV_items#$0
+    - [ "Emergency Exit", "Teleport_Stone#Final_Fantasy_IV" ]
+    
+    # Magic
+    - pattern: ^(Teleport|Tsunami)$
+      rewrite: $0#Final_Fantasy_IV
+
+    # Abilities
+    - pattern: ^(Dualcast|Item Lore)$
+      rewrite: $0#Final_Fantasy_IV
+    - pattern: ^(Counter|Curse)$
+      rewrite: $0_(ability)#Final_Fantasy_IV
+      
+    # Characters
+    - pattern: ^(Namingway)$
+      rewrite: $0#Final_Fantasy_IV
+    - [ "Kain", "Kain Highwind" ]
+    - [ "Edge", "Edge Geraldine" ]
+    - [ "Rosa", "Rosa Joanna Farrell" ]
+    
+    # Locations
+    - pattern: ^(Mist|Underground Waterway)$
+      rewrite: $0 (Final Fantasy IV)
+      
+    # Stats
+    - [ "Intellect", "Intelligence" ]
+    - pattern: ^(HP|MP|Intelligence)$
+      rewrite: $0 (stat)#Final_Fantasy_IV
+      
+    # Misc
+    - pattern: Event Theater
+      rewrite: $0 (Final Fantasy IV)
+    - pattern: ^([Hh]ealing pot)$
+      rewrite: $0#Final_Fantasy_IV
+    - pattern: ^([Bb]estiary)$
+      rewrite: $0 (Final Fantasy IV)#3D_versions
+    - [ "^NG\\+$", "New Game Plus#Final_Fantasy_IV" ]
+  
+    # Cleanup
+    - [ " ", "_" ]
