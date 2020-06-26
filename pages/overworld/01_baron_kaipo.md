@@ -26,7 +26,9 @@
 
 ## [Mist Cave](@) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=317566256#407515) {#mist_cave}
 * `💬` [Namingway] (Mappingway), [Wayfarer's Map]
+
 :::{:columns=small}
+
 ###### Pickups
 * [Potion]
 * [Eye Drops]
@@ -37,7 +39,9 @@
 * [Eyewing Moth]
 * [Larva]
 * `⭐` [Mist Dragon]
+
 :::
+
 ##### After
 * `🧳` Uneqip [Kain] before entering [Mist].
 
