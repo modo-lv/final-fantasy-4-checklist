@@ -3,6 +3,7 @@
 # Overworld {#overworld}
 
 ## [Chocobo Forest]s
+- West and slightly south of [Baron Castle] & [Baron (Town)]
 - South of [Mount Ordeals]
 
 ## [Bestiary] {:columns=small}

@@ -15,9 +15,16 @@
     * [Fabul]
     * [Mysidia] & Chocobo Forest
     * [Mount Ordeals]
+  * After Mysidia
+    * [Mist revisited](Mist)
+    * [Baron (Town) revisited]
+    * [Baron Castle revisited]
+    * [Mysidia revisited]
 * Gameplay
   * [Miscellaneous](gameplay)
   * [Chocobo Forest]
-  * Reference
     * [Augments]
+      * [New Game](aug_rec_ng)
+      * [New Game+](aug_rec_ngp)
+      * [Stat maximizing](stat_max)
     * [Items]

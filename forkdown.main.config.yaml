@@ -41,6 +41,9 @@ externalLinks:
       rewrite: $0#Final_Fantasy_IV
     - pattern: ^(Counter|Curse)$
       rewrite: $0_(ability)#Final_Fantasy_IV
+    - pattern: Twincast
+      rewrite: $0 (Final Fantasy IV)
+    - [ "Augments", "Augment (Final Fantasy IV)" ]
       
     # Characters
     - pattern: ^(Namingway)$
