@@ -98,16 +98,3 @@
   :i [Twincast]s are guaranteed, the rest depend on how many augments you gave to [Porom] and [Palom]. Check the [augment] section for details.
   : Talk to the elder in Prayer Dais, through the door in the crystal room.
   * Give [Twincast] to [Cecil].
-
-
-## [Mythril](@) (optional) {#mythril}
-Located on one of the islands south of [Fabul], about halfway between [Fabul] and [Mount Ordeals].
-
-* [Diet Ration]
-  : West edge of the patch of dirt southwest of the [inn].
-* [Maiden's Kiss]
-  : Well in the southeast corner of the village.
-* [Mythril Staff]
-  : At the end of the central street going east.
-* $5000
-  : Large bush next to the weapon [shop] entrance.

@@ -74,6 +74,7 @@
   :i Refusing to sell him [Tent]s changes nothing; [Event Theater] available with [Fat Chocobo] from now on.
     
 
+
 ## [Mount Ordeals](@) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=317566256#407216) {#mount_ordeals}
 
 :w This is your last chance to level up [Cecil] to level 25 for the "Deep into Darkness" [achievement]. Once you finish [Mount Ordeals], it will no longer be possible until next playthrough.
@@ -106,6 +107,8 @@
 * `⭐` [Scarmiglione]
   
 :::
+
+* `🧳` Uneqip [Cecil] before touching the altar.
 
 ### After completion
 * Crossing: [Curse] [augment]

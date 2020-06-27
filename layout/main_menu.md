@@ -20,6 +20,13 @@
     * [Baron (Town) revisited]
     * [Baron Castle revisited]
     * [Mysidia revisited]
+  * [Mythril] (optional)
+  * [Eblan Castle] (optional)
+  * Troia
+    * [Troia Castle]
+    * [Troia (town)]
+    * [Chocobo Village]
+    * [Lodestone Cavern]
 * Gameplay
   * [Miscellaneous](gameplay)
   * [Chocobo Forest]

@@ -7,7 +7,7 @@
 - South of [Mount Ordeals]
 
 ## [Bestiary] {:columns=small}
-### Around [Baron]
+### Around Baron
 * [Goblin]
   :i Also found in [Mist Cave], around [Kaipo], in [Underground Waterway] (passage south) and [Antlion's Den].
 * [Helldiver]
@@ -21,5 +21,20 @@
 ### Around [Fabul]
 * [Gatlinghog]
   :i Also found around [Mysidia] & [Mount Ordeals].
-### Around [Mysidia] & [Mount Ordeals]
+### Around [Mysidia]
 * [Zu]
+  :i Found all the way from [Mysidia] to [Mount Ordeals].
+### Around [Eblan Castle]
+* [Mors]
+* [Rukh]
+* [Fledgling Rukh]
+* [Ironback]
+* [Black Lizard]
+* [Flamehound]
+### Around Troia
+* [Treant]
+* [Mortblossom]
+* [Cait Sith]
+* [Ettin Snake]
+* [Needlehog]
+* [Cave Naga]
