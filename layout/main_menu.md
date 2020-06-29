@@ -27,11 +27,17 @@
     * [Troia (town)]
     * [Chocobo Village]
     * [Lodestone Cavern]
+    * [Tower of Zot]
+    * [Agart]
+* Underworld
+  * [World Map](underworld)
+  * [Dwarven Castle]
+  * [Tower of Babil]
 * Gameplay
   * [Miscellaneous](gameplay)
   * [Chocobo Forest]
-    * [Augments]
-      * [New Game](aug_rec_ng)
-      * [New Game+](aug_rec_ngp)
-      * [Stat maximizing](stat_max)
-    * [Items]
+  * [Augments]
+    * [New Game](aug_rec_ng)
+    * [New Game+](aug_rec_ngp)
+    * [Stat maximizing](stat_max)
+  * [Items]

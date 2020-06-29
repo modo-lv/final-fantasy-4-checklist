@@ -33,7 +33,7 @@ Located on an island in the southwest corner of the world.
 ##### West Tower
 - 1F:
   * [Sleep Blade]
-    `⚔` [Steel Golem], [Skuldier]
+    `⚔️` [Steel Golem], [Skuldier]
     : Secret passage on the right.
   * [Bomb Core]
     :i Reachable from 2F.
@@ -56,13 +56,13 @@ Located on an island in the southwest corner of the world.
   * [Hermes Sandals]
     : Pot in the northwest corner.
   * [Blood Lance]
-    `⚔` [Coeurl], [Lamia]
+    `⚔️` [Coeurl], [Lamia]
     : Secret passage in the northeast corner.
 - Cellar Passage
   * [Ninja Sutra]
     : First candle nearest the entrance.
   * 2x [Ether]
   * [Silver Apple]
-    `⚔` [Mad Ogre]
+    `⚔️` [Mad Ogre]
 
 ::::

@@ -9,6 +9,7 @@ externalLinks:
     # Bosses
     - pattern: ^(Antlion|Asura|Attack Node|Bahamut|Baigan|Barbariccia|Barnabas|Barnabas-Z|Baron Soldier|Brina|Cagnazzo|Calca|Calcabrina|Cindy|CPU|Dark Bahamut|Dark Dragon|Dark Elf|Defense Node|Demon Wall|Doctor|Dr. Lugae|General|Geryon|Golbez|King of Eblan|Leviathan|Lunasaur|Mindy|Mist Dragon|Mom Bomb|Mopingway|Octomammoth|Odin|Ogopogo|Plague Horror|Proto-Babil|Queen of Eblan|Rubicante|Sandy|Scarmiglione|Skulnant|White Dragon|Zemus)$
       rewrite: $0 (Final_Fantasy_IV_3D)
+    - [ "Magus Sisters", "$0#Final_Fantasy_IV" ]
       
     # Weapons
     - pattern: ^(Shadowblade)$
@@ -39,7 +40,7 @@ externalLinks:
     # Abilities
     - pattern: ^(Dualcast|Item Lore)$
       rewrite: $0#Final_Fantasy_IV
-    - pattern: ^(Counter|Curse)$
+    - pattern: ^(Counter|Curse|Whirlwind)$
       rewrite: $0_(ability)#Final_Fantasy_IV
     - pattern: Twincast
       rewrite: $0 (Final Fantasy IV)

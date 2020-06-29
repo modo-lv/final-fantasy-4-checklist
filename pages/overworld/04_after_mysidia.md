@@ -97,4 +97,4 @@
 * `💬` [Augments]\: [Bluff], [Cry], [Dualcast], 2x [Twincast]
   :i [Twincast]s are guaranteed, the rest depend on how many augments you gave to [Porom] and [Palom]. Check the [augment] section for details.
   : Talk to the elder in Prayer Dais, through the door in the crystal room.
-  * Give [Twincast] to [Cecil].
+  * `ng` Give [Twincast] to [Cecil], and [Bluff] & [Cry] to [Tellah].

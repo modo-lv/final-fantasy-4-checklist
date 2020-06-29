@@ -42,12 +42,21 @@ If an augment is not in the list, that means it isn't required for maximising st
 |-|-|-|
 | [Auto Potion] | [Porom] | Using up a [Potion] every time you are hit, regardless of damage amount, isn't very useful. Give it to [Porom] as one of the 3 augments needed to obtain [Dualcast]. |
 | [Item Lore] | [Palom] | [Item Lore] is more useful than [Auto Potion], but still not as useful as [Dualcast]. Give it to [Palom] to make the most out of his [Flame Rod] and [Ice Rod] weapons. |
-| [Counter] | [Cecil] | As the main character that is always in your party, and occasionally the only character, [Cecil] can get the most use out of it. |
-| [Curse] | [Palom] [Porom] | Used for maximizing stats, but very limited usefulness in combat. With [Counter] used by [Cecil], this is the only augment remaining to give as the third to [Palom] or [Porom] before they leave. |
-| [Tsunami] | [Edge] | Necessary for maximizing [Rosa]'s and [Edge]'s stats on [NG+], and is more useful in combat for [Edge]  due to his higher [Intellect]. |
-| [Dualcast] | [Rydia] | As a black mage and a summoner, [Rydia] gets the most powerful spells in the game. Doubling that power makes this one of the most useful augments in the game. |
+| [Counter] | [Cecil] | As the main character that is always in your party, and occasionally the only character, [Cecil] can get the most use out of instantly retaliating against physical attacks. |
+| [Curse] | [Palom] [Porom] | Good for maximizing stats, but very limited usefulness in combat. With [Counter] used by [Cecil], this is the only augment remaining to give as the third to [Palom] or [Porom] to get [Dualcast]. |
+| [Tsunami] | [Edge] | Necessary for maximizing [Rosa]'s and [Edge]'s stats on [NG+], and is more useful in combat for [Edge] due to his higher [Intellect]. |
+| [Bluff] [Cry] | [Tellah] | [Tellah]'s second extra augment is [Fast Talker], which halves the casting time of spells, making another exceedingly useful augment for magic users. |
+| [Dualcast] | [Rosa] | Both mages benefit from double casting, but being able to recover and buff/debuff in a single turn is more useful than just doing damage twice. |
 | [Twincast] | [Cecil] & [Rosa] | [Cecil] and [Rosa] [twincast] [Ultima], one of the most powerful non-summon spells in the game. |
 | [Gil Farmer] | [Cecil] [Rydia] | Needed for maximizing [Cecil]'s and [Rydia]'s stats. More useful in game for [Cecil] as the main character who is always in the party. |
-
+| [Fast Talker] | [Rosa] | While both mages will benefit from halved casting time, [Rosa] handles more diverse types of spells. |
+| [Whirlwind] | [Edge] | Same as [Tsunami]. |
+| [Draw Attacks] | [Cecil] | [Cecil] has the highest defense (including best armor) and is present in all fights. This makes him the best enemy target candidate, especially when combined with [Counter]. |
+| [Reach] | [Edge] | [Edge] has the lowest physical defence of the main melee characters. |
+| [Recall] | [Yang] | Recall is too expensive to use in random battles and too unpredicatble for boss encounters. Give it to [Yang] to exhange for [Kick] augment. |
+| [Last Stand] | [Yang] | Doubling defense at critical HP is a very situational ability that rarely comes into play, while [Yang]'s [Brace] is something that can be strategically used. |
+| [Focus] | [Edge] | Being able to wield two weapons means [Edge] has the highest regular physical attack damage, which can benefit the most from doubling it up to three times. |
+| [Kick] | [Edge] | Similar as with [Focus] — as the highest raw physical damage dealer, [Edge] can make the most out of attacking all enemies at once. |
+| [Brace] | [Cecil] | As the character with the highest defense, he can make the most out of nearly doubling it again, especially in combination with [Cover] and/or [Draw Attacks]. |
 
 ### New Game+ {#aug_rec_ngp}
