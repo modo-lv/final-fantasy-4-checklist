@@ -1,5 +1,3 @@
-:{:checklist}
-
 # Overworld {#overworld}
 
 ## [Chocobo Forest]s
@@ -8,33 +6,33 @@
 
 ## [Bestiary] {:columns=small}
 ### Around Baron
-* [Goblin]
++ [Goblin]
   :i Also found in [Mist Cave], around [Kaipo], in [Underground Waterway] (passage south) and [Antlion's Den].
-* [Helldiver]
-* [Sword Rat]
++ [Helldiver]
++ [Sword Rat]
   :i Also found in [Mist Cave], around [Kaipo], in [Underground Waterway] (passage south) and around [Fabul].
 ### Around [Kaipo]
-* [Desert Sahagin]
-* [Hundlegs]
-* [Sand Worm]
++ [Desert Sahagin]
++ [Hundlegs]
++ [Sand Worm]
   :i Also found in [Antlion's Den] (B2 Alcove).
 ### Around [Fabul]
-* [Gatlinghog]
++ [Gatlinghog]
   :i Also found around [Mysidia] & [Mount Ordeals].
 ### Around [Mysidia]
-* [Zu]
++ [Zu]
   :i Found all the way from [Mysidia] to [Mount Ordeals].
 ### Around [Eblan Castle]
-* [Mors]
-* [Rukh]
-* [Fledgling Rukh]
-* [Ironback]
-* [Black Lizard]
-* [Flamehound]
++ [Mors]
++ [Rukh]
++ [Fledgling Rukh]
++ [Ironback]
++ [Black Lizard]
++ [Flamehound]
 ### Around Troia
-* [Treant]
-* [Mortblossom]
-* [Cait Sith]
-* [Ettin Snake]
-* [Needlehog]
-* [Cave Naga]
++ [Treant]
++ [Mortblossom]
++ [Cait Sith]
++ [Ettin Snake]
++ [Needlehog]
++ [Cave Naga]
