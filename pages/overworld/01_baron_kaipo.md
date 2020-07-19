@@ -1,10 +1,10 @@
 :{:columns}
 
-## [Baron Castle](@) {#:baron_castle}
+## [Baron Castle](@) {#:id}
 + `c` $480, [Ether], [Tent]
 + `💬` [Namingway]
 
-## [Baron (town)](@) {#:baron_town}
+## [Baron (town)](@) {#:id}
 + `c` [Gnomish Bread], [Tent], [Eye Drops]
 + [Potion] (corner)
   : Small bush next to the inn entrance.
@@ -35,7 +35,9 @@
 + [Tent]
 + [Potion]
 + `🗺️` 5 [Potion]s
-###### [Bestiary]
+###### [Bestiary] {:singles}
++ [Goblin]
++ [Sword Rat]
 + [Eyewing Moth]
 + [Larva]
 + `⭐` [Mist Dragon]
@@ -47,11 +49,12 @@
 
 
 ## [Kaipo](@) {#kaipo}
-+ `⚔️` [General], [Baron Soldier]s.
-  :w Killing all the soldiers before the general will make him flee, making his [bestiary] entry unattainable until [next playthrough](NG+).
++ `⚔️` [Baron Soldier] {:single}
+  :w Killing all the soldiers before the general will make him flee, making his [Bestiary] entry unattainable until [next playthrough](NG+).
+  + `⚔️` [General] {:single}
 + `💬` [Namingway], [Bestiary] progress check
-    6%: #1-#9, #154-#156
-    :w Becomes unavailable after talkingo to [Rosa] and leaving the building.
+  6%: #1-#9, #154-#156
+  :w Becomes unavailable after talkingo to [Rosa] and leaving the building.
 + `💬` [Auto Potion]
   : Talk to [Rosa] in the northeast building.
 

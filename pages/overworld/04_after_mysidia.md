@@ -15,7 +15,7 @@
 
 
 ## [Baron (Town)](@) revisited {#:id}
-1. [Baron Key]
++ [Baron Key]
    Required to unlock the weapon & armor shop, and the [Ancient Waterway] entrance.
    : Inn, upstairs.
 + [Namingway] (Jammingway)
@@ -45,7 +45,13 @@
   + `🗺️` 3 [Remedies](Remedy)
 + B1: [Ancient Sword]
   : Secret passage in the [Save Point] room.
-###### [Bestiary]
+###### [Bestiary] {:singles}
++ [Fangshell]
+  : B4.
++ [Killer Fish]
+  : B4 and B2.
++ [Alligator]
+  : B3 and B2.
 + [Gigas Gator]
 + [Splasher]
   : Everywhere except B1.
@@ -58,8 +64,6 @@
 + [Flood Worm]
   : B2 and B1.
   :i Rare.
-+ [Baron Guardsman]
-  : B1.
   
 :::
 

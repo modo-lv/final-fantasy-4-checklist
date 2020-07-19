@@ -34,12 +34,7 @@ Located on the continent northwest of Baron, next to Troia Castle.
   : Behind the armor [shop].
 + [Mappingway] (Cheatingway)
   : East of the pub.
-  :i [Music player] now available with [Fat Chocobo].
-+ `augment` [Gil Farmer]
-  Costs $100000.
-  : Buy [Member's Writ] from the NPC sitting next to the entrance in the pub, then talk to the NPC in the northeast corner to gain access to the basement area.
-  + `ng` Give it to [Cecil]
-  
+  :i [Music player] now available with [Fat Chocobo].  
 
   
 ## [Chocobo Village](@) {#:id}
@@ -83,14 +78,21 @@ Located on a small island northeast of Troia.
 - B4:
   + [Emergency Exit]
   + `🗺️` [Dry Ether] 
-###### [Bestiary]
+###### [Bestiary] {:singles}
 + [Ogre]
++ [Cait Sith]
++ [Needlehog]
+  : B1, B2, and B3 treasure room.
 + [Mindflayer]
   : B2 treasure room, B3 and onwards.
 + [Cave Bat]
   : B2 treasure room, B3 and onwards.
 + [Succubus]
   : B2 treasure room, B3 and onwards.
++ [Ettin Snake]
+  : B3 Passageway and B4.
++ [Cave Naga]
+  : B3 Passageway and B4.
 + `⭐` [Dark Elf]
   : Crystal Chamber
 
@@ -128,7 +130,7 @@ Located on a small island northeast of Troia.
   + `🗺️` 3 [Bronze Hourglass]es
   + `🧳` Unequip [Tellah] after [Magus Sisters].
 
-###### [Bestiary]
+###### [Bestiary] {:singles}
 + [Centaur Knight]
   : 1F-2F, 5F.
 + [Frostbeast]
@@ -137,6 +139,8 @@ Located on a small island northeast of Troia.
   : 1F.
 + [Purple Bavarois]
   : 1F-2F.
++ [Flamehound]
+  : 2F.
 + [Black Knight]
   : 2F-4F.
 + [Ice Lizard]
@@ -145,12 +149,14 @@ Located on a small island northeast of Troia.
   : 2F.
 + [Soldieress]
   : 3F-5F.
++ [Frostbeast]
+  : 3F-5F.
 + [Fell Turtle]
   : 3F-5F.
 + [Sorceress]
   : 4F-5F.
-+ `⭐` [Sandy], [Mindy], [Cindy]
-+ `⭐` [Barbariccia]
++ `⭐` [Sandy], [Mindy], [Cindy] {:single=false}
++ `⭐` [Barbariccia] {:single=false}
   :i After [Golbez]
   
 :::
@@ -162,7 +168,7 @@ Located on a small island northeast of Troia.
   + `ng` Give [Recall] and [Last Stand] to [Yang].
 + `ng` Give [Twincast] and [Dualcast] [augment]s to [Rosa]
 ##### After [Barbariccia]
-+ [Whirlwind] [augment] in [Lodestone Cavern] Crystal Chamber
++ [Whirlwind] [augment] in [Lodestone Cavern] Crystal Chamber.
 
 
 

@@ -44,12 +44,11 @@
   : Bookshelf in the Break Room.
 + [Reach] [augment]
   : Talk to every NPC in the office, including Music Room and Break Room. The [augment] will appear as a shimmering spot at the left wall of the Break Room.
-  
-  
-  
+
+
 ## [Tower of Babil](@) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=317566256#407528) {#tower_of_babil}
 
-:w Cannot be revisited once completed.
+:w Cannot be revisited once completed. [Bestiary] entries **in bold** can only be acquired here.
 
 :i There's a save point on B10 and B7. You cannot fully map B8 at this point.
 
@@ -84,28 +83,44 @@
   + [Hi-Potion]
   + `🗺️` 5 [Remedies](Remedy)
 + B7: [Dry Ether]
-###### [Bestiary]
+###### [Bestiary] {:singles}
++ [Flamehound]
+  : B13, B12 (except in Storage Chamber A) and B10 (except in rooms).
++ [Black Lizard]
+  : B13-B12 (except in Storage Chamber B), B8-B7.
++ [Goblin Captain]
+  : B13-B11 (except in Storage Chamber B).
 + [Security Eye]
-  : B12 Storage Chamber A, B10 Storage Chamber C.
+  : B12 (Storage Chamber A, B10 (Storage Chamber C).
++ [Armadillo]
+  : B12 (Storage Chamber A), B11, B8-B7.
++ [Magma Tortoise]
+  : B12 (Storage Chamber A), B11.
 + [Chimera]
-  : B12 Storage Chamber B, B10 Storage Chamber A & B.
-+ [Flame Knight]
-  : B12 Storage Chamber B, B10.
+  : B12 (Storage Chamber B), B10 (Storage Chambers A & B).
++ **[Flame Knight]**
+  : B12 (Storage Chamber B), B10.
 + [White Mousse]
-  : B12 Storage Chamber B, B10.
+  : B12 (Storage Chamber B), B10.
++ [Marionetteer]
+  : B12 (Storage Chamber B), B10.
 + [Evil Doll]
-  : B12 Storage Chamber B, B10.
+  : B12 (Storage Chamber B), B10.
 + [Mystery Egg]
   :i The monsters that the egg turns into do not get added to [bestiary].
   : B11 to B7.
 + [Naga]
-  : B10 Storage Chamber C.
+  : B10 (Storage Chamber C).
 + [Medusa]
-  : B10 Storage Chamber C.
+  : B10 (Storage Chamber C).
 + [Stone Golem]
-  : B10 Storage Chambers A & B.
+  : B10 (Storage Chambers A & B).
 + [Mythril Golem]
-  : B10 Storage Chambers A & B.
+  : B10 (Storage Chambers A & B).
++ [Skuldier]
+  : B9, B7.
++ [Leshy]
+  : B9, B7.
 + [Steel Golem]
   : B9.
 + [Blood Bat]

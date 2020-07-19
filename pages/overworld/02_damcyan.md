@@ -36,19 +36,27 @@
   + [Bronze Hourglass]
   + `🗺️` [Ether]
   
-###### [Bestiary]
-- SB1-SB2: 
-  + [Tiny Mage]
-  + [Sahagin]
-- South B2+:
-  + [Killer Fish]
-    :i Also found in [Ancient Waterway] (B4 and B2).
-  + [Amoeba]
-  + [Fangshell]
-    :i Also found in [Ancient Waterway] (B4).
-+ B3+: [Gigantoad]
-+ NB2+: [Toadgre]
-+ NB1: [Zombie]
+###### [Bestiary] {:singles}
++ [Sword Rat]
+  :x South B1.
++ [Goblin]
+  :x South B1.
++ [Tiny Mage]
+  :x South B1 & B2.
++ [Sahagin]
+  :x South B1 & B2.
++ [Killer Fish]
+  :x Everywhere except South B1.
++ [Amoeba]
+  :x Everywhere except South B1.
++ [Fangshell]
+  :x Everywhere except South B1.
++ [Gigantoad]
+  :x B3, North B2 & B1.
++ [Toadgre]
+  :x North B2 & B1.
++ [Zombie]
+  :x North B1.
 
 :::
 
@@ -66,10 +74,20 @@
 - B1:
   + [Hades Armor], [Hermes Sandals]
   + `🗺️` 3 [Zeus's Wrath]s
-###### [Bestiary]
+###### [Bestiary] {:singles}
 + [Red Mousse]
 + [Alligator]
-  :i Also found in [Ancient Waterway] (B3 and B2).
++ [Zombie]
++ [Toadgre]
+  :x B2.
++ [Gigantoad]
+  :x B2.
++ [Amoeba]
+  :x B2.
++ [Killer Fish]
+  :x B2.
++ [Fangshell]
+  :x B2.
 + `⭐` [Octomammoth]
 
 :::
@@ -97,7 +115,7 @@
 
 
 
-## [Antlion's Den](@) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=317566256#407518) {#antlions_den :columns=small}
+## [Antlion's Den](@) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=317566256#407518) {#antlion's_den :columns=small}
 
 ###### Pickups
 - B1:
@@ -120,12 +138,19 @@
   + [Potion]
   + `🗺️` 3 [Phoenix Down]s
   
-###### [Bestiary]
+###### [Bestiary] {:singles}
 + [Adamantoise]
++ [Goblin]
+  :x B1.
 + [Domovoi]
-  :i B1. Also found on the world map around [Fabul].
-+ B2, Nest: [Yellow Jelly]
-- B2 Alcove, Nest:
-  + [Basilisk]
-  + [Leshy]
-+ `⭐` Nest: [Antlion]
+  :x B1.
++ [Yellow Jelly]
+  :x B2, Antlion's Nest.
++ [Basilisk]
+  :x B2 Alcove, Antlion's Nest.
++ [Leshy]
+  :x B2 Alcove, Antlion's Nest.
++ [Sand Worm]
+  :x B2 Alcove, Antlion's Nest.
+  :i Rare.
++ `⭐` [Antlion]

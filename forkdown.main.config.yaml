@@ -25,7 +25,7 @@ externalLinks:
       
     # Items
     - [ "Auto Potion", "Auto-Potion" ]
-    - pattern: ^(Auto-Potion|Bacchus's Wine|Bomb Fragment|(Dry )?Ether|Eye Drops|Gnomish Bread|Gold Needle|Hermes Sandals|Maiden's Kiss|Phoenix Down|Tent|X-Potion|Zeus's Wrath)$
+    - pattern: ^(Auto-Potion|Bacchus's Wine|Bomb Fragment|(Dry )?Ether|Eye Drops|Gaia Drum|Gnomish Bread|Gold Needle|Hermes Sandals|Maiden's Kiss|Phoenix Down|Tent|X-Potion|Zeus's Wrath)$
       rewrite: $0#Final_Fantasy_IV
     - pattern: ^(Potion)$
       rewrite: $0_(item)#Final_Fantasy_IV

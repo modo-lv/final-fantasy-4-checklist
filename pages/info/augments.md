@@ -55,8 +55,12 @@ If an augment is not in the list, that means it isn't required for maximising st
 | [Reach] | [Edge] | [Edge] has the lowest physical defence of the main melee characters. |
 | [Recall] | [Yang] | Recall is too expensive to use in random battles and too unpredicatble for boss encounters. Give it to [Yang] to exhange for [Kick] augment. |
 | [Last Stand] | [Yang] | Doubling defense at critical HP is a very situational ability that rarely comes into play, while [Yang]'s [Brace] is something that can be strategically used. |
-| [Focus] | [Edge] | Being able to wield two weapons means [Edge] has the highest regular physical attack damage, which can benefit the most from doubling it up to three times. |
-| [Kick] | [Edge] | Similar as with [Focus] — as the highest raw physical damage dealer, [Edge] can make the most out of attacking all enemies at once. |
-| [Brace] | [Cecil] | As the character with the highest defense, he can make the most out of nearly doubling it again, especially in combination with [Cover] and/or [Draw Attacks]. |
+| [Focus] | [Edge] | [Edge] spends a lot of the playthrough lagging behind other melee characters in levels (and thus damage), and doubling the attack damage up to 3 times can help with that, especially in boss battles. |
+| [Kick] | [Cecil] | Kick synergises well with [Counter] (put it in auto-battle slot) and [Cecil] spends most of the playthrough having the highest melee damage. |
+| [Brace] | ? |  |
+| [MP+50%] | [Rydia] | Both mages can use an increase in [MP], but [Rosa] can recover hers with [Pray] and [Rydia]'s summons cost more. |
+| [Inferno] | [Rydia] | Needed by [Rosa] and [Rydia] for stat maxing, [Rosa] has more use of it due to higher [Intellect]. |
+| [Darkness] | [Kain] | Goes well with [Jump] as a way to deal a lot of damage in a single attack (400% damage at the cost of 3 turns and 10% HP). |
+| [Level Lust] | [Cecil] | Gaining levels quicker can be especially useful in the start of NG+. |
 
 ### New Game+ {#aug_rec_ngp}

@@ -29,10 +29,23 @@
     * [Lodestone Cavern]
     * [Tower of Zot]
     * [Agart]
+  * [Cave of Eblan]
 * Underworld
   * [World Map](underworld)
   * [Dwarven Castle]
   * [Tower of Babil]
+  * [Tower of Babil revisited]
+  * Exploration (optional)
+    * [Tomra]
+    * [Sylph Cave]
+    * [Passage of the Eidolons]
+    * The [Feymarch]
+  * [Sealed Cave]
+  * [After Sealed Cave]
+* Red Moon
+  * [World Map](red_moon)
+  * [Hummingway Abode]
+  * [Lunar Tunnel]
 * Gameplay
   * [Miscellaneous](gameplay)
   * [Chocobo Forest]

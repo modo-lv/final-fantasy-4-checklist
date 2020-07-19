@@ -8,18 +8,18 @@
 + Summit: [Holy Arrows]
 + `🗺️` East Slope: 3 [Bomb Core]s
 
-###### [Bestiary]
+###### [Bestiary] {:singles}
 + [Spirit]
 + [Skeleton]
-  :i Everywhere except Summit.
+  : Everywhere except Summit.
 + [Bomb]
-  :i Everywhere except West Slope. Also found on the world map around [Fabul].
+  : Everywhere except West Slope.
 + [Gargoyle]
-  :i Vista only.
+  : Vista only.
 + [Cockatrice]
-  :i Vista & Summit. Also found on the world map around [Fabul], [Mysidia] & [Mount Ordeals].
+  : Vista & Summit.
 + [Gray Bomb]
-  :i Summit & East Slope. Also found on the world map around [Fabul].
+  : Summit & East Slope.
   
   
 ## [Fabul](@) {#fabul}
@@ -27,14 +27,14 @@
 :w Once you enter the throne room (central stairs, 3F), you will enter several battles in a row and progress the story.
 
 + `🧳` Unequip [Rosa] before entering the throne room.
-+ `💬` [Namingway] (Recordingway), [Event Theater].
++ `💬` [Namingway] (Recordingway), [Event Theater]
   :i [Bestiary] becomes permanently available with [Fat Chocobo].
   : In the inn.
 
 :::{:columns=small}
 
 ##### West tower
-+ [Potion], [Antarctic Wind], [Bomb Fragment].
++ [Potion], [Antarctic Wind], [Bomb Fragment]
 + [Zeus's Wrath]
   : 1F, candle near the stairs.
 
@@ -47,9 +47,14 @@
   
 :::
   
-### Battle
-+ [Captain], [Baron Marine]
-:w The [Captain]s flee if you kill the soliders with them and can only be encountered during this battle.
+### Battle {:singles}
++ [Captain]
+  :w Killing all the soldiers before the captain will make him flee, making his [Bestiary] entry unattainable until [next playthrough](NG+).
++ [Baron Marine]
++ [Sahagin]
++ [Domovoi]
++ [Leshy]
++ [Gargoyle]
 
 ### Aftermath
 + `🧳` Unequip everyone except [Cecil] before boarding the boat.
@@ -69,8 +74,8 @@
 
 + [Bestiary] progress check
   20%: #1-#34, #154-#159
-+ [Namingway] (Campingway).
-  :w Selling him your tents will give him *all+ of them for the $300 total.
++ [Namingway] (Campingway)
+  :w Selling him your tents will give him *all* of them for the $300 total.
   :i Refusing to sell him [Tent]s changes nothing; [Event Theater] available with [Fat Chocobo] from now on.
     
 
@@ -93,10 +98,14 @@
   + [Ether]
   + `🗺️` [Ether]
 + `🗺️` Summit: [Red Fang]
-###### [Bestiary]
+###### [Bestiary] {:singles}
 + [Revenant]
 + [Ghoul]
 + [Soul]
++ [Spirit]
+  : Everywhere except Summit.
++ [Skeleton]
+  : Entrance and Crossing.
 + [Bloodbones]
   : Entrance & Trail.
 + [Zombie]
