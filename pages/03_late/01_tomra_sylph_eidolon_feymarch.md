@@ -124,7 +124,7 @@
   :i House to the west of the [inn]/item [shop] contains a [save point].
   + [Bestiary], [Phoenix Down]
     : House to the west of the [inn]/item [shop].
-+ `💬` [Eidolon search]
++ `💬` Start [Eidolon search]
   : Talk to the [eidolon] in the house west of the [inn] to start the quest. Talk to him again, and after each eidolon found, to get a hint about where to find the next one.
 + `⭐` [Asura]
 + `⭐` [Leviathan]

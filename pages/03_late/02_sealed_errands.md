@@ -50,8 +50,8 @@
 + `🧳` Uneqip [Kain] as soon as you reach the cave entrance (exit B1).
 
 
-## After [Sealed Cave] {#after_sealed_cave}
-: Talk to the king in the [Dwarven Castle] to have your airship upgraded to enable moving between overworld and underworld.
+## Errands after [Sealed Cave] {#after_sealed_cave}
+: Talk to the king in the [Dwarven Castle] to have your [Enterprise] upgraded to enable moving between [overworld] and [underworld].
 
 :w This is the last chance to acquire [Yang]'s [augments] and the [Knife], you must get them before you continue with the story in [Mysidia].
 
@@ -63,9 +63,8 @@
   : Near the end of Second Passage, where [Edge] attacked [Rubicante].
 + `💬` [Adamant Isle Grotto]\: [Adamantite] (trade for [Rat Tail])
   : Bring the hovercraft to the [Mythril] island (halfway between [Mount Ordeals] and [Fabul Castle]) and use it to enter the cave on the island to the southeast.
-* [Fabul Castle]
-  + `💬` [Frying Pan]
-    : Talk to [Yang]'s wife on the third floor of the west tower.  
++ `💬` [Fabul Castle]\: [Frying Pan]
+  : Talk to [Yang]'s wife on the third floor of the west tower.  
 + `💬 augment` [Gil Farmer]
   Costs $100000.
   : Buy [Member's Writ] from the NPC sitting next to the entrance in the pub, then talk to the NPC in the northeast corner to gain access to the basement area.
@@ -91,8 +90,5 @@
 + [Soma Drop]
   : Bookshelf on 2F.
 + `💬` Give [Adamantite] to [Kokkol]
-
-### After visiting [Red Moon]
-+ `💬` [Excalibur]
-  Available if you gave [Kokkol] [Adamantite] before.
-  : Talk to [Kokkol].
+  + `💬` [Excalibur] {:single=excalibur}
+    Available after visiting the [Moon].

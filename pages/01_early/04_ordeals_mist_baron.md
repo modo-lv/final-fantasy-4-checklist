@@ -1,5 +1,49 @@
 :{:columns}
 
+## [Mount Ordeals](@) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=317566256#407216) {#mount_ordeals}
+
+:w This is your last chance to level up [Cecil] to level 25 for the "Deep into Darkness" [achievement]. Once you finish [Mount Ordeals], it will no longer be possible until next playthrough.
+
+:i Summit has a [Save Point].
+
+:::{:columns=small}
+###### Pickups
+- Entrance:
+  + [Potion]
+  + [Potion]
+  + `🗺️` 5 [Antidote]s
++ `🗺️` Trail: 3 [Hi-Potion]s
+- Crossing:
+  + [Ether]
+  + [Ether]
+  + `🗺️` [Ether]
++ `🗺️` Summit: [Red Fang]
+###### [Bestiary] {:singles}
++ [Revenant]
++ [Ghoul]
++ [Soul]
++ [Spirit]
+  : Everywhere except Summit.
++ [Skeleton]
+  : Entrance and Crossing.
++ [Bloodbones]
+  : Entrance & Trail.
++ [Zombie]
+  : Crossing & Summit.
++ [Lilith]
+  : Crossing & Summit.
+  :i Rare.
++ `⭐` [Scarmiglione]
+  
+:::
+
++ `🧳` Uneqip [Cecil] before touching the altar.
+
+### After completion
++ Crossing: [Curse] [augment]
+  Give to [Porom].
+  : Shimmering spot on the right edge about halfway through the area.
+
 
 ## [Mist](@) revisited {#mist}
 :i The weapon shop sells [Dancing Dagger], a weapon that casts a non-elemental offensive spell when used in battle.
@@ -95,10 +139,3 @@
 ## [Chocobo Forest] (after [Cagnazzo]) {#choco_cagnazzo}
 + [Bestiary] progress check
   28%: #1-#46, #154-#164
-  
-  
-## [Mysidia](@) revisited {#:id}
-+ `💬` [Augments]\: [Bluff], [Cry], [Dualcast], 2x [Twincast]
-  :i [Twincast]s are guaranteed, the rest depend on how many augments you gave to [Porom] and [Palom]. Check the [augment] section for details.
-  : Talk to the elder in Prayer Dais, through the door in the crystal room.
-  + `ng` Give [Twincast] to [Cecil], and [Bluff] & [Cry] to [Tellah].

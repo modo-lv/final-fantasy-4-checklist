@@ -3,7 +3,7 @@
 ## [Dwarven Castle](@) {#:id}
 
 ### Arrival
-+ `🧳` Uneqip [Cid] before entering the castle.
++ `🧳` Uneqip [Cid] as soon as you enter the castle.
 + `⭐` [Calca], [Brina], [Calcabrina]
   :w Killing all [Calca]s or [Brina]s before [Calcabrina] appears will make its [bestiary] entry unattainable until next playthrough.
 + `⭐` [Golbez]
@@ -46,11 +46,12 @@
   : Talk to every NPC in the office, including Music Room and Break Room. The [augment] will appear as a shimmering spot at the left wall of the Break Room.
 
 
+
 ## [Tower of Babil](@) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=317566256#407528) {#tower_of_babil}
 
-:w Cannot be revisited once completed. [Bestiary] entries **in bold** can only be acquired here.
+:w Cannot be revisited once completed. **[Flame Knight]** [Bestiary] entry can only be acquired here.
 
-:i There's a save point on B10 and B7. You cannot fully map B8 at this point.
+:i There's a save point on B10 and B7. You cannot fully map B7 and B8 at this point.
 
 :::{:columns=small}
 

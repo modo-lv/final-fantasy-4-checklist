@@ -1,45 +1,8 @@
 :{:columns}
 
-## [Troia Castle](@) {#:id}
 
-Located on the continent northwest of Baron.
-
-+ `💬` [Whisperweed]
-  : Talk to [Edward] in the western part of the castle.
-+ [Bacchus's Wine]
-  : In a pot in a small room down the middle staircase in the east wing of th castle.
-+ 2x [Tent], 2x [Hi-Potion], 2x [Ether], 2x [Ruby Ring]
-
-#### After [Lodestone Cavern]
-:w Once you enter the throne room, you will not be able to use your airship for a while, as boarding it will take you directly to the [Tower of Zot]. You can still use a black chocobo to get around the map, but it can only land in forests.
-
-+ 2x [Hi-Potion], [Remedy], 2x [Ether], [Dry Ether], [Elixir], [Echo Herbs], [Great Bow], [Fire Arrows], $5000, [Lightning Arrows], $50000, [Ice Arrows], [Echo Herbs], [Silver Apple], [Dry Ether], [Remedy]
-
-
-## [Troia (town)](@) {#:id}
-Located on the continent northwest of Baron, next to Troia Castle.
-
-+ [Phoenix Down]
-  : In the water, at the northeast end of the canal.
-- Northwest corner:
-  + [Dry Ether]
-  + $1000
-  + [Decoy]
-  + [Ether]
-+ [Tent]
-  : Large bush next to the entrance of the armor [shop].
-+ [Hi-Potion]
-  : Dirt patch behind the weapon [shop].
-+ [Hi-Potion]
-  : Behind the armor [shop].
-+ [Mappingway] (Cheatingway)
-  : East of the pub.
-  :i [Music player] now available with [Fat Chocobo].  
-
-  
-## [Chocobo Village](@) {#:id}
-
-Located north of Troia.
+## [Chocobo Village](@) {#:id} (missable)
+: Located north of Troia.
 
 + [Gysahl Greens]
   : Central grass clearing, northeastern edge.
@@ -173,7 +136,7 @@ Located on a small island northeast of Troia.
 
 
 ## [Agart](@) {#agart}
-Located directly south of Baron.
+: Located directly south of Baron.
 
 :w Once you enter the [underworld], you will not be able to return to surface for a while.
 

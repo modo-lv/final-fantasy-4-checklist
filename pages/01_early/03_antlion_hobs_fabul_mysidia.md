@@ -1,5 +1,47 @@
 :{:columns}
 
+## [Antlion's Den](@) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=317566256#407518) {#antlion's_den :columns=small}
+
+###### Pickups
+- B1:
+  + [Spider Silk]
+  + [Potion]
+  + [Tent], [Potion]
+  + [Potion]
+  + [Gold Needle]
+  + Save point: [Phoenix Down], [Ether], [Emergency Exit]
+    :i Reachable from B2.
+    : On B2: go south from the entrance, take the first left and then north to reach a door leading back to B1.
+  + `🗺️` 5 [Potion]s
+    :i Full map requires reaching the save point entrance.
+- B2:
+  + Alcove: [Lamia Harp]
+    You can encounter [Yellow Jellies](yellow_jelly) here (see [Namingway] questline for details).
+  + [Antarctic Wind]
+  + [Shadowblade]
+  + [Ice Rod]
+  + [Spider Silk]
+  + [Potion]
+  + `🗺️` 3 [Phoenix Down]s
+  
+###### [Bestiary] {:singles}
++ [Adamantoise]
++ [Goblin]
+  :x B1.
++ [Domovoi]
+  :x B1.
++ [Yellow Jelly]
+  :x B2, Antlion's Nest.
++ [Basilisk]
+  :x B2 Alcove, Antlion's Nest.
++ [Leshy]
+  :x B2 Alcove, Antlion's Nest.
++ [Sand Worm]
+  :x B2 Alcove, Antlion's Nest.
+  :i Rare.
++ `⭐` [Antlion]
+
+
 ## [Mount Hobs](@) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=317566256#407519) {#mount_hobs :columns=small}
 
 ###### Pickups
@@ -77,49 +119,3 @@
 + [Namingway] (Campingway)
   :w Selling him your tents will give him *all* of them for the $300 total.
   :i Refusing to sell him [Tent]s changes nothing; [Event Theater] available with [Fat Chocobo] from now on.
-    
-
-
-## [Mount Ordeals](@) [🗺️](https://steamcommunity.com/sharedfiles/filedetails/?id=317566256#407216) {#mount_ordeals}
-
-:w This is your last chance to level up [Cecil] to level 25 for the "Deep into Darkness" [achievement]. Once you finish [Mount Ordeals], it will no longer be possible until next playthrough.
-
-:i Summit has a [Save Point].
-
-:::{:columns=small}
-###### Pickups
-- Entrance:
-  + [Potion]
-  + [Potion]
-  + `🗺️` 5 [Antidote]s
-+ `🗺️` Trail: 3 [Hi-Potion]s
-- Crossing:
-  + [Ether]
-  + [Ether]
-  + `🗺️` [Ether]
-+ `🗺️` Summit: [Red Fang]
-###### [Bestiary] {:singles}
-+ [Revenant]
-+ [Ghoul]
-+ [Soul]
-+ [Spirit]
-  : Everywhere except Summit.
-+ [Skeleton]
-  : Entrance and Crossing.
-+ [Bloodbones]
-  : Entrance & Trail.
-+ [Zombie]
-  : Crossing & Summit.
-+ [Lilith]
-  : Crossing & Summit.
-  :i Rare.
-+ `⭐` [Scarmiglione]
-  
-:::
-
-+ `🧳` Uneqip [Cecil] before touching the altar.
-
-### After completion
-+ Crossing: [Curse] [augment]
-  Give to [Porom].
-  : Shimmering spot on the right edge about halfway through the area.

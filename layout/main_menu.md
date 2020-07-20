@@ -1,51 +1,53 @@
-* Overworld
-  * [World Map](overworld)
-  * Baron to Kaipo
-    * [Baron Castle]
-    * [Baron (Town)]
-    * [Mist Cave]
-    * [Kaipo]
-  * Damcyan
-    * [Underground Waterway: Passage](underground_waterway)
-    * [Underground Waterway: Lake](underground_lake)
-    * [Damcyan]
-    * [Antlion's Den]
-  * Fabul & Mysidia
-    * [Mount Hobs]
-    * [Fabul]
-    * [Mysidia] & Chocobo Forest
-    * [Mount Ordeals]
-  * After Mysidia
-    * [Mist revisited](Mist)
-    * [Baron (Town) revisited]
-    * [Baron Castle revisited]
-    * [Mysidia revisited]
-  * [Mythril] (optional)
-  * [Eblan Castle] (optional)
-  * Troia
-    * [Troia Castle]
-    * [Troia (town)]
-    * [Chocobo Village]
-    * [Lodestone Cavern]
-    * [Tower of Zot]
-    * [Agart]
-  * [Cave of Eblan]
-* Underworld
-  * [World Map](underworld)
+* Early game
+  * [Baron Castle]
+  * [Baron (town)]
+  * [Mist Cave]
+  * [Kaipo]
+  * [Underground Waterway: Passage](underground_waterway)
+  * [Underground Waterway: Lake](underground_lake)
+  * [Damcyan]
+  * [Antlion's Den]
+  * [Mount Hobs]
+  * [Fabul]
+  * [Mysidia] & Chocobo Forest
+  * [Mount Ordeals]
+  * [Mist revisited](Mist)
+  * [Baron (town) revisited]
+  * [Baron Castle revisited]
+  * ---
+  * [Overworld]
+* Mid game
+  * [Mysidia revisited]
+  * [Mythril] (missable)
+  * [Troia Castle]
+  * [Troia (town)]
+  * [Chocobo Village]
+  * [Lodestone Cavern]
+  * [Tower of Zot]
+  * [Agart]
   * [Dwarven Castle]
   * [Tower of Babil]
+  * [Eblan Castle] (missable)
+  * [Cave of Eblan]
   * [Tower of Babil revisited]
-  * Exploration (optional)
+  * ---
+  * [Underworld]
+* Late game
+  * Exploration (all missable)
     * [Tomra]
     * [Sylph Cave]
     * [Passage of the Eidolons]
     * The [Feymarch]
   * [Sealed Cave]
-  * [After Sealed Cave]
-* Red Moon
-  * [World Map](red_moon)
+  * [Errands](after_sealed_cave) after Sealed Cave
   * [Hummingway Abode]
   * [Lunar Tunnel]
+  * [Lair of the Father] (missable)
+  * [Giant of Babil]
+  * [Errands](after_giant) after Giant of Babil
+  * [Lunar Subterrane]
+  * ---
+  * [Moon]
 * Gameplay
   * [Miscellaneous](gameplay)
   * [Chocobo Forest]

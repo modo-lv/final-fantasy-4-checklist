@@ -1,4 +1,4 @@
-## [Red Moon](@) world map {#red_moon}
+## [Moon](@) {#moon}
 
 Progress check (Lunar Whale acquired): 77%, #1-125, #154-185
 
@@ -6,6 +6,7 @@ Progress check (Lunar Whale acquired): 77%, #1-125, #154-185
 + [Abyss Worm]
   :i Rare.
 + [Balloon]
+  : Around [Lair of the Father]
 + [Black Flan]
 + [Dark Grenade]
 + [Eukaryote]
